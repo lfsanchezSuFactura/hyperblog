@@ -4,3 +4,4 @@ Es muy interesante el cambio de credenciales locales
 Verifico cambio de usuario a el de trabajo
 
 Bienvenido Hyperblog
+Es una prueba de confilcto
