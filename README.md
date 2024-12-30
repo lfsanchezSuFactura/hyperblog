@@ -5,3 +5,4 @@ Verifico cambio de usuario a el de trabajo
 
 Bienvenido Hyperblog
 Se soluciono el conflicto
+Vim fue muy complejo
